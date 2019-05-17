@@ -1,0 +1,15 @@
+{
+  "name": "MAX6675 with hardware SPI",
+  "keywords": "MAX6675, Thermocouple",
+  "description": "Uses hardware SPI, and polls the MAX6675 with timings according to the datasheet",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/zhenek-kreker/MAX6675.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
